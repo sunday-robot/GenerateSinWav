@@ -1,19 +1,21 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourierTransfer", "FourierTransfer\FourierTransfer.csproj", "{494EA6A4-0984-4A6E-AFF9-75FB223C7BE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleSinWave", "MultipleSinWave\MultipleSinWave.csproj", "{36390B2A-2E0E-4827-8F29-C46B743E036B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleSinWave", "MultipleSinWave\MultipleSinWave.csproj", "{36390B2A-2E0E-4827-8F29-C46B743E036B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveData", "WaveData\WaveData.csproj", "{2C61EA55-F030-40B5-82A2-5B0122DFB448}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaveData", "WaveData\WaveData.csproj", "{2C61EA55-F030-40B5-82A2-5B0122DFB448}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WavAnalyzer", "WavAnalyzer\WavAnalyzer.csproj", "{1FCFBF6C-B975-42A8-A9F3-E83B95262BC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WavAnalyzer", "WavAnalyzer\WavAnalyzer.csproj", "{1FCFBF6C-B975-42A8-A9F3-E83B95262BC6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourierTransferTest", "FourierTransferTest\FourierTransferTest.csproj", "{B20DA2E3-ACDE-4449-8980-D22E7152D803}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WavFile", "WavFile\WavFile.csproj", "{CB331EDE-0D9F-4FA4-A4CA-395800D596E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WavFile", "WavFile\WavFile.csproj", "{CB331EDE-0D9F-4FA4-A4CA-395800D596E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinWaveGenerator", "SinWaveGenerator\SinWaveGenerator.csproj", "{455EBF8E-34FD-4FD6-B59D-DEB935E47A39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SinWaveGenerator", "SinWaveGenerator\SinWaveGenerator.csproj", "{455EBF8E-34FD-4FD6-B59D-DEB935E47A39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
